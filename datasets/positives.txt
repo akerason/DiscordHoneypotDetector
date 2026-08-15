@@ -6,13 +6,13 @@ DO NOT SEND MESSAGES IN THIS CHANNEL. This channel is used to catch spam bots. A
 WARNING: This channel is a honeypot. Sending any message will trigger an automatic softban.
 DO NOT TYPE HERE. This area catches bot accounts. Any message = instant softban.
 This channel exists solely to trap spam bots. Talking here results in an automatic ban.
-HONEYPOT CHANNEL - DO NOT SPEAK. Any message sent here leads to a softban with no appeal.
+HONEYPOT CHANNEL DO NOT SPEAK. Any message sent here leads to a softban with no appeal.
 BOT DETECTION ZONE. Do not post anything. A single message triggers a permanent softban.
 DO NOT CHAT IN THIS CHANNEL. It is a trap for automated spam. Offenders are instantly softbanned.
 Absolutely no messages allowed in this channel. It is a bot-catching honeypot. Violators will be banned.
 NO TALKING. This is a honeypot. One message = softban.
 Spam trap active. Any user sending a message here will be automatically softbanned.
-This channel is monitored for bot activity. DO NOT POST - any message leads to a ban.
+This channel is monitored for bot activity. DO NOT POST any message leads to a ban.
 DO NOT INTERACT HERE. The channel is a honeypot, and all messages result in an automatic softban.
 STOP. Do not write anything. This space catches spam bots and softbans anyone who types.
 Any message in this channel triggers an instant softban. This is a bot detection system.
@@ -22,15 +22,15 @@ Honeypot active: all messages in this channel will cause an automatic softban.
 DO NOT SEND A MESSAGE. This channel bans bots automatically. Human or bot, any message gets softbanned.
 This is a spam bot detection channel. Writing anything here will result in an immediate softban.
 NO MESSAGES ALLOWED. This channel is a honeypot used to automatically softban rule-breakers.
-Warning - honeypot channel. Messages sent here are used to identify and softban bot accounts.
+Warning honeypot channel. Messages sent here are used to identify and softban bot accounts.
 Do not use this channel. It is a trap; posting anything triggers a softban without warning.
-This channel is a trap for scam bots. Do not talk - you will be automatically softbanned.
+This channel is a trap for scam bots. Do not talk you will be automatically softbanned.
 BOT TRAP: any user who sends a message here gets softbanned instantly, no questions asked.
 Stay silent in this channel. It is a honeypot and any message will result in a softban.
 No talking. This channel is for catching bots. Sending anything means automatic softban.
 Honeypot: all messages are logged and result in an immediate softban. DO NOT TYPE.
 Absolutely no messages may be sent here. The channel softbans every poster automatically.
-Bot-catching channel - any message sent leads directly to a softban. Keep out.
+Bot-catching channel any message sent leads directly to a softban. Keep out.
 This channel is off-limits. It detects spam bots; any message triggers a softban.
 DO NOT POST. This is a honeypot. A single word gets you softbanned automatically.
 Messages in this channel are impossible to undo. Any post leads to a softban. Stay away.
@@ -40,7 +40,7 @@ No user messages are permitted. This channel serves as a spam bot honeypot and i
 DO NOT SPEAK IN THIS CHANNEL. It is a bot detection honeypot; violators are softbanned.
 Honeypot: do not send any text. All messages are met with an automatic softban.
 Any activity in this channel results in a softban. This is a fully automated bot trap.
-Bot detection area - any message triggers a softban. Please do not type here.
+Bot detection area any message triggers a softban. Please do not type here.
 This channel automatically softbans anyone who posts. It exists to catch spam bots.
 NO MESSAGES. This channel is a honeypot. A single character yields a softban.
 IF YOU TYPE HERE YOU WILL BE SOFTBANNED. This channel is a bot trap, do not engage.
@@ -51,33 +51,33 @@ Honeypot: do not send messages. The bot automatically softbans any poster.
 THIS CHANNEL IS A HONEYPOT. DO NOT SEND A MESSAGE OR YOU WILL BE SOFTBANNED.
 Warning: this channel is a bot trap. Sending a message results in an immediate softban.
 Avoid typing here. The channel softbans all users who send a message, no exceptions.
-BOT CATCHER ACTIVE - messages cause an automatic softban. Please stay silent.
+BOT CATCHER ACTIVE messages cause an automatic softban. Please stay silent.
 Do not interact. This is a honeypot channel; any message triggers a softban.
 This channel is a silent trap for bots. All posts are softbanned automatically.
 No talking in this channel. It is dedicated to catching bots and will softban any poster.
-STOP - do not send messages. This is a honeypot; any message triggers a softban.
+STOP do not send messages. This is a honeypot; any message triggers a softban.
 This channel is reserved for bot detection. Writing anything results in an automatic softban.
 Any text sent here triggers a softban. Honeypot is active; stay out.
 Spam bot honeypot. All messages lead to a softban. Do not type anything.
 This channel is armed: any message triggers a softban. Used to neutralize bot accounts.
 Messaging this channel is an instant softban. It is a honeypot for bots and spammers.
-DO NOT TYPE - honeypot active. Every message here causes a softban without review.
+DO NOT TYPE honeypot active. Every message here causes a softban without review.
 This is an automated trap. Posting here = softban. The channel exists to catch scam bots.
 Honeypot channel: do not write anything. All messages result in a softban.
 NO TALKING ALLOWED. This channel softbans any user who sends a message. Bots only.
 Do not chat. Any message sent to this channel is an automatic softban. Honeypot.
 This channel functions as a bot trap. Sending a message leads to an instant softban.
-HONEYPOT - DO NOT SPEAK. All messages are automatically softbanned.
+HONEYPOT DO NOT SPEAK. All messages are automatically softbanned.
 Any post, even a single letter, triggers a softban. This channel is a bot honeypot.
 DO NOT INTERACT WITH THIS CHANNEL. It is a trap for spam bots. Messages = softban.
 This channel exists to softban bots. Do not type; your message will trigger a ban.
-Silent channel - any message results in a softban. This is a fully automated honeypot.
+Silent channel any message results in a softban. This is a fully automated honeypot.
 MESSAGES HERE ARE PUNISHED WITH A SOFTBAN. Honeypot is in effect, do not type.
 No messages. This is a honeypot for bot detection. Violators are immediately softbanned.
-Do not send content here. It is a trap - all messages are met with a softban.
+Do not send content here. It is a trap all messages are met with a softban.
 This channel is a honeypot, and any message will automatically softban the sender.
 WARNING: Honeypot channel. Speaking here instantly softbans your account.
-Bot trap active - any user who sends a message here will be softbanned.
+Bot trap active any user who sends a message here will be softbanned.
 This channel is exclusively for catching bots. All other messages result in softbans.
 NOTICE: Do not type in this channel. It is a honeypot and issues an automatic softban.
 Any communication in this channel is met with a softban. Honeypot in place.
@@ -86,11 +86,11 @@ You will be softbanned for sending a message here. No warnings, no exceptions.
 Text in this channel results in a softban. It is a honeypot, do not engage.
 Please keep this channel empty. It is a bot honeypot; any message triggers a softban.
 This channel catches and softbans bots. Do not write anything to avoid a ban.
-Stay out - honeypot channel. Messages cause automatic softbans, no appeal possible.
+Stay out honeypot channel. Messages cause automatic softbans, no appeal possible.
 BOT TRAP: all messages are auto-softbanned. This space is not for human conversation.
 DO NOT PLACE TEXT HERE. Honeypot will softban instantly.
 This channel softbans anyone who posts. It is used for spam bot detection. Keep silent.
-No messages, please. Honeypot active - all typing leads to a softban.
+No messages, please. Honeypot active all typing leads to a softban.
 This is a detection channel for bots. Any message sent here results in a softban.
 Do not attempt to speak. The channel is a honeypot and will softban all messages.
 Honeypot: zero tolerance. Any message = softban. The channel is strictly for bot trapping.
@@ -100,3 +100,37 @@ Sending a message to this channel means an immediate softban. Honeypot is operat
 NO USER MESSAGES. This channel is a honeypot. Any text causes a softban.
 This channel is a silent trap. All messages are logged and result in a softban. Do not type.
 Honeypot: speak and get softbanned. The channel is built to catch bots automatically.
+Honeypot do not post here
+🚫do-not-type
+bot-trap
+honeypot
+no-chat
+auto-ban-zone
+spam-bot-catcher
+silent-zone
+scam-link-trap
+zero-talk
+mrbeast-scam-trap
+bait-room
+do-not-send
+DO NOT SEND MESSAGES HERE. This channel is used to catch spam bots. Any messages sent here will result in an immediate ban.
+No human should talk here. This is a honeypot for bots and scam accounts.
+ABSOLUTELY NOBODY can talk here. Don’t do it or you’ll be softbanned/banned.
+This channel exists to stop fake giveaway/MrBeast scam pics. Typing here = automatic ban.
+Read-only trap channel. If you type here, you are flagged as a bot.
+CHANNEL IS USED TO CATCH BOTS, PLEASE DO NOT TYPE IN THIS CHANNEL. IF YOU DO, YOU WILL BE AUTOMATICALLY BANNED.
+Do not talk here, you will get soft banned by honeypot.
+This is a bot-catching channel. No legitimate user should post anything.
+No chatting. No commands. No exceptions. Any message here will result in a ban.
+Warning: This channel is monitored for spam and scam bots. Do not send any messages.
+DO NOT TYPE IN THIS CHANNEL. You will be automatically banned. This channel is a honeypot for bots and scam accounts.
+This channel is monitored. Any message sent here is treated as spam/bot activity and will result in an immediate ban.
+Warning: You are not allowed to send messages in this channel. Continuing will trigger automatic moderation action.
+This is a trap channel. No legitimate user should post here. If you are human, leave immediately.
+ABSOLUTELY NOBODY can talk here. Don’t do it or you’ll be softbanned/banned.
+Do not send messages in this channel. This channel is used to catch spam bots. Any messages sent here will result in an immediate ban.
+CHANNEL IS USED TO CATCH BOTS, PLEASE DO NOT TYPE IN THIS CHANNEL. IF YOU DO, YOU WILL BE AUTOMATICALLY BANNED
+You have triggered the honeypot. Your message was logged and your account has been flagged for ban.
+No talking. This is a bot-catching channel. If you are human, you have broken the rule and will be soft-banned.
+This channel is not for conversation. It is a honeypot. Any message here will be treated as a spam attempt.
+Fake MrBeast/giveaway scam pictures are not allowed. This channel is a honeypot; any message here results in a ban.
