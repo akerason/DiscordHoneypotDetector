@@ -1,10 +1,11 @@
 [project]
 name = "DiscordHoneypotDetector"
 version = "0.1.0"
-description = "Give a score to a message to determine if it is a honeypot warning or not"
+description = "Detect and ingore discord server honeypots"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "discord-py-self>=2.1.0",
     "joblib>=1.5.3",
     "scikit-learn>=1.9.0",
     "sentence-transformers>=5.7.0",

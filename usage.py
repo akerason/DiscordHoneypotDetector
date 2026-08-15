@@ -17,8 +17,5 @@ def prediction(message):
     return prob
 
 # Example
-msg = "this is a honeypot you better not send messages here"
-print(prediction(msg))  # > 0.5
-
-msg = "Yo everyone, what's up? what are yall doing?"
-print(prediction(msg))  # < 0.1
+msg = "wdym bro"
+print(prediction(msg))
