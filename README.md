@@ -34,5 +34,5 @@ bot.run(
 
 Current detector_model.pkl is trained on current dataset, feel free to modify anything you want, but note that it's pretty large for github.
 
-By: Bob (t.me/arkaseon)
+By: Akerason
 Feel free to dm me to add messages to datasets, modify the code, or something else.
